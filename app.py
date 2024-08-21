@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import random
-import seaborn as sns
 import streamlit as st
 from fpdf import FPDF  # For generating PDF files
 import matplotlib.pyplot as plt  # For plotting charts
