@@ -6,7 +6,7 @@ The AI-Based Student Assessment System is a machine learning-powered application
 
 This system consists of two primary sections:
 
-**Student Model: **Determines if a student is eligible for remedial classes based on their internal marks.
+**Student Model:** Determines if a student is eligible for remedial classes based on their internal marks.
 
 **Teacher Model:** Provides teachers with insights into class interest and student readiness for placements based on average attendance and performance.
 
